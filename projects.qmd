@@ -2,7 +2,11 @@
 title: "Projects"
 ---
 
-## Featured Repositories
+## Ongoing project 
 
-Later 
+### ATHENA : 
+This work will be presented during the 59. Jarestreffen Deutscher Katalyker (DECHEMA) : 
+Feel free to reach out for future collaborations. 
+
+
 [👉 View all repositories](https://github.com/AlexN7-Shepard?tab=repositories)
