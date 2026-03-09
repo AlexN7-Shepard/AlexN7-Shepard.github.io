@@ -6,7 +6,10 @@ title: "Gbocho Alexandre"
 
 **Berlin, Germany**
 
-I am specialized in the applications of Mathematical Optimization in industry, more precisely signal processing and signal for system identifications.
-My interests lies in Process engineering, biofuels, biogazs and robotics; 
+I am specialized in Mathematical Optimization and Control. 
+I am cultivated a great interest in interdisciplinary works where advanced Mathematical tools and techniques are required. From Process Engineering, Robotics, Biotechnology (in particular, biofuels and biogazs) and System Identification. 
+
+My mission, is to create tools that help engineers and scientist to build better models.
+
 
 [👉 View all repositories](https://github.com/AlexN7-Shepard?tab=repositories)
