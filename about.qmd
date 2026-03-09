@@ -2,7 +2,8 @@
 title: "About Me"
 ---
 
-## Background
+# Contact
 
-Later
+
 [📧 Contact via GitHub](https://github.com/AlexN7-Shepard)
+[Email me](gbocho@tu-berlin.de)
