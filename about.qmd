@@ -1,8 +1,5 @@
 ---
-title: "About Me"
+title: "Contact"
 ---
-
-## Contact
-
 [E-mail adress](mailto:(gbocho@tu-berlin.de))
 [📧 GitHub](https://github.com/AlexN7-Shepard)
