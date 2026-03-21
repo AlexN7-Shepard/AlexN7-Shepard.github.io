@@ -7,9 +7,11 @@ title: "Gbocho Alexandre "
 **Berlin, Germany**
 
 I am specialized in Mathematical Optimization and Control. 
-I cultivated an interest in interdisciplinary works where advanced Mathematical tools and techniques are required. From Process Engineering, Robotics, Biotechnology (in particular, biofuels and biogazs) and System Identification. 
+I cultivated an interest in interdisciplinary work where advanced Mathematical tools and techniques are required. 
+From Process Engineering, Robotics, Biotechnology (in particular, biofuels and biogazs). 
 
-My mission, is to create tools that help engineers and scientist to build better models.
+My mission, is to create tools that help engineers and scientist to build better models. 
 
 
-[👉 View all repositories](https://github.com/AlexN7-Shepard?tab=repositories)
+
+[▶️ View all repositories](https://github.com/AlexN7-Shepard?tab=repositories)
