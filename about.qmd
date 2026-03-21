@@ -2,7 +2,9 @@
 title: "Contact"
 ---
 [📧 E-mail adress](mailto:gbocho@tu-berlin.de)
+
+
 [🔥Socials](https://linktr.ee/alexscifit)
 
 
-[:shipit: GitHub](https://github.com/AlexN7-Shepard)
+[⚡GitHub](https://github.com/AlexN7-Shepard)
