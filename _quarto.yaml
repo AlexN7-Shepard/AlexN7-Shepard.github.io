@@ -6,13 +6,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Homepage
       - href: about.qmd
-        text: About
+        text: Contact
       - href: projects.qmd
         text: Projects
+      - href: news.qmd
+        text: News & Update
 
 format:
   html:
-    theme: cyborg
+    theme: flatly
     css: styles.css
