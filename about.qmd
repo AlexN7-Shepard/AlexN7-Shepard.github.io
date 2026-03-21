@@ -1,10 +1,16 @@
 ---
 title: "Contact"
 ---
+# 📈 For academics and industrial project : 
+
 [📧 E-mail adress](mailto:gbocho@tu-berlin.de)
 
 
+# 🚧 Social Media 
+
+If you would like to collaborate, and everything related to sponsorship :
 [🔥Socials](https://linktr.ee/alexscifit)
 
+# GitHub
 
 [⚡GitHub](https://github.com/AlexN7-Shepard)
