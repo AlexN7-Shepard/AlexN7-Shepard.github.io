@@ -1,21 +1,23 @@
 ---
 title: "Contact"
 ---
-# 📈 For academics and industrial project : 
+# 📚📈 For academics and industrial project : 
 
 If we met at a conference and you were to shy to say hi, or if 
-you developped an interest on enhancing your mathematical models 👇
+you developped an interest on enhancing your mathematical models, please contact me on the following e-mail address👇
 
 [📧 E-mail adress](mailto:gbocho@tu-berlin.de)
 
 
-# 🚧 Social Media 
+# 🚧🌐 Social Media 
 
-I recently decided to start on social media. 
+I recently decided to start on social media, to share my passion  and connect with other people.
 If you would like to collaborate, this is where the magic happens !
-From sport to scientific content 👇
+I am aiming to build a community, of people that want to learn more about science and more precisely mathematics 👇
 [🔥Socials](https://linktr.ee/alexscifit)
 
-# GitHub
 
+# GitHub
+List of the open source project I contributed to, In 2026, I will start to 
+open source several of my projects. 
 [⚡GitHub](https://github.com/AlexN7-Shepard)
