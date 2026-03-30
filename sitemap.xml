@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://AlexN7-Shepard.github.io/about.html</loc>
-    <lastmod>2026-03-21T18:52:02.450Z</lastmod>
-  </url>
-  <url>
     <loc>https://AlexN7-Shepard.github.io/news.html</loc>
-    <lastmod>2026-03-21T18:52:02.450Z</lastmod>
+    <lastmod>2026-03-30T08:53:05.369Z</lastmod>
   </url>
   <url>
     <loc>https://AlexN7-Shepard.github.io/index.html</loc>
-    <lastmod>2026-03-21T18:52:02.450Z</lastmod>
+    <lastmod>2026-03-30T08:53:05.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://AlexN7-Shepard.github.io/about.html</loc>
+    <lastmod>2026-03-30T08:53:05.369Z</lastmod>
   </url>
   <url>
     <loc>https://AlexN7-Shepard.github.io/projects.html</loc>
-    <lastmod>2026-03-21T18:52:02.450Z</lastmod>
+    <lastmod>2026-03-30T08:53:05.369Z</lastmod>
   </url>
 </urlset>
